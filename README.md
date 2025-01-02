@@ -12,3 +12,4 @@
 | [2025-01-02](https://github.com/ACRoota/HF-Space-Helper/commits/ba4f837a5348523a148b7e5998705243d9aeda14/docs/index.html) |  |
 | [2025-01-02](https://github.com/ACRoota/HF-Space-Helper/commits/a7f581cd2258ec7a460b04507fcdee3678dca0a4/docs/index.html) |  |
 | [2025-01-03](https://github.com/ACRoota/HF-Space-Helper/commits/e747a6f3852aade03e7690148b8ebf4fa85465a5/docs/index.html) |  |
+| [2025-01-03](https://github.com/ACRoota/HF-Space-Helper/commits/25a008c2b4ac2c668e8f8b678ff7e386cc70f92a/docs/index.html) |  |
